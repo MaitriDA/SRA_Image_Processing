@@ -25,4 +25,8 @@ Original Image
 ## 3)Edge Detection
 Edge Detection is done using 3*3 kernel.
 
+Origil Image
+
+
+
 ## 4)Morphology
