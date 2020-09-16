@@ -4,10 +4,16 @@
 ## 1) IMAGE ROTATION
 The image is rotatd by the angle given in the input.
 
+The image is rotated by 65 degrees.
+
 ![Image_rotation](https://user-images.githubusercontent.com/64657733/93302530-c74efc00-f817-11ea-9bae-79aa1203e933.png)
   
 ## 2) APPLYING KERNELS
 Different types of filters like Box Blur,Gaussian Blur and Sharpening is applied.
+
+Original Image
+
+
 
 ## 3)Edge Detection
 Edge Detection is done using 3*3 kernel.
