@@ -44,3 +44,10 @@ Original Image
 
 
 ## 4)Morphology
+
+Orginal Image
+
+Dilation
+
+Erosion
+
