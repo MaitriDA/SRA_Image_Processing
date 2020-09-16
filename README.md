@@ -47,7 +47,17 @@ Original Image
 
 Orginal Image
 
+![Input](https://user-images.githubusercontent.com/64657733/93316228-924ba500-f829-11ea-88d5-de9067c7b803.png)
+
+
 Dilation
 
+![Dilation_image](https://user-images.githubusercontent.com/64657733/93316241-95df2c00-f829-11ea-9a5c-e0bb11a48f24.jpg)
+
 Erosion
+
+![Erosion_Image](https://user-images.githubusercontent.com/64657733/93316250-98418600-f829-11ea-915b-d2e8f54c5fa7.png)
+
+
+
 
